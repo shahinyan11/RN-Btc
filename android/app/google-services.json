@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "707375648316",
+    "project_id": "q2-app-101dc",
+    "storage_bucket": "q2-app-101dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707375648316:android:809463a63ed823b0d73d39",
+        "android_client_info": {
+          "package_name": "com.mobile.bitcoinaddition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707375648316-5e00ncteckn7c47n3jt3pjnj0cprifcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.bitcoinaddition",
+            "certificate_hash": "2a99a25a6de3edc41772b4c412115f06fa74ca6f"
+          }
+        },
+        {
+          "client_id": "707375648316-e8hm4h3bjds7j4h0hrmmnd698vqlh4ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.bitcoinaddition",
+            "certificate_hash": "31b2634c66a97d585f256315616a1d7e014f2cb8"
+          }
+        },
+        {
+          "client_id": "707375648316-m0l2qav6uqtam0tbmcj31rs1i403j7cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.bitcoinaddition",
+            "certificate_hash": "acba00145e853b78d1c68bc097a1aa5265224078"
+          }
+        },
+        {
+          "client_id": "707375648316-de0fk9ojpfa1h4e5amsob3in4tr8ngff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFEyvu0FhKmuX1RrRHi-wb9GvgjjMywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707375648316-d1sp3abfea6ea4qpbukp6m656viqs6fp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707375648316-1te4dp57d0vj9r402tr2m71sduea5ft4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.q2.eco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707375648316:android:83e2195c4acd47add73d39",
+        "android_client_info": {
+          "package_name": "com.mobile.quantum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707375648316-2jhte061vg3qfkjftol8teaaqsv8no50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.quantum",
+            "certificate_hash": "f0e493289830dcd11927c9cdc5bfddf8758981d4"
+          }
+        },
+        {
+          "client_id": "707375648316-8t92lfn5gjpstmgb7c4chmbcat4nbb1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.quantum",
+            "certificate_hash": "6b529c45fd6df1a579182ef29284b010f894be9e"
+          }
+        },
+        {
+          "client_id": "707375648316-s6ggcsf833ulo9s6dp3e9l9789kso5sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.quantum",
+            "certificate_hash": "c423ef35df74912295690ec6b9ef2fd2df2b6b13"
+          }
+        },
+        {
+          "client_id": "707375648316-sb628id56r6t3tmdbs4g54lqdi8uilr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.quantum",
+            "certificate_hash": "63b6a4ef49df60eafc14a040e7a2938d72520584"
+          }
+        },
+        {
+          "client_id": "707375648316-de0fk9ojpfa1h4e5amsob3in4tr8ngff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFEyvu0FhKmuX1RrRHi-wb9GvgjjMywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707375648316-d1sp3abfea6ea4qpbukp6m656viqs6fp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707375648316-1te4dp57d0vj9r402tr2m71sduea5ft4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.q2.eco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

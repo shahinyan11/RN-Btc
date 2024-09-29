@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bitcoin Addition</string>
+    <string name="facebook_app_id">811581886831012</string>
+    <string name="facebook_client_token">a1f0b15f9868467a5eefe917aff1eba4</string>
+
+    <string moduleConfig="true" name="CodePushDeploymentKey">GVMe3PU3exP0oo4hI6ao5xP1gAT6vgxCvam4w</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT
+    </string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND
+    </string>
+</resources>

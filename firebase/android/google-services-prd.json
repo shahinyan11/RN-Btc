@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1070510398956",
+    "project_id": "btcadditionalprod-d9ba3",
+    "storage_bucket": "btcadditionalprod-d9ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070510398956:android:c9c3e2c6e4391b464e34c9",
+        "android_client_info": {
+          "package_name": "com.mobile.bitcoinaddition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070510398956-455796l0umustd1nr35akrdb2j66mb43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.bitcoinaddition",
+            "certificate_hash": "eedab6a404d7b190b6636f324cdf785465f0b3b0"
+          }
+        },
+        {
+          "client_id": "1070510398956-6rpopdepcciqikrr151em55cm2rsdvuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.bitcoinaddition",
+            "certificate_hash": "31ff47c1d684682551210f3ad3e29ffee2073bba"
+          }
+        },
+        {
+          "client_id": "1070510398956-bn6fo1j41ht7dhrg3enuf5rddq3puj7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sRYqzbmAxlyenhBmSejzszHEtfNOFTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070510398956-bn6fo1j41ht7dhrg3enuf5rddq3puj7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070510398956-lqsqr01i48d5ci8osclm1ts0t1b27e57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quantum.bitcoinadditional",
+                "app_store_id": "1608805106"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

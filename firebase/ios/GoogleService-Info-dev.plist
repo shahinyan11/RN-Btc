@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070510398956-bn6fo1j41ht7dhrg3enuf5rddq3puj7o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419415704046-ch5m0j37sn8118l6vhei93abiut0iokh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>419415704046-a1a7hll7oqjb6e96h7fcter3rplg2he2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpxgZwB6k6tU6kO5iEK3CcP72YdGJUbzY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419415704046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobile.bitcoinadditional</string>
+	<key>PROJECT_ID</key>
+	<string>btcadditiondev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>btcadditiondev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419415704046:ios:0e075d6fb6222f2f070eff</string>
+</dict>
+</plist>

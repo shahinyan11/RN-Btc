@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "419415704046",
+    "project_id": "btcadditiondev",
+    "storage_bucket": "btcadditiondev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419415704046:android:b8a0d440eac6e776070eff",
+        "android_client_info": {
+          "package_name": "com.mobile.bitcoinaddition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpHitlgZKrbfsx4RPV9-1iMgrKyD_Ys8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419415704046-ch5m0j37sn8118l6vhei93abiut0iokh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.bitcoinadditional",
+                "app_store_id": "1608805106"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
